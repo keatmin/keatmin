@@ -2,7 +2,7 @@
 
 
 <a href="https://github.com/keatmin">
-  <img alt="Github Stats" align="right" src="https://github-readme-stats.vercel.app/api/?username=keatmin&layout=compact&theme=nightowl&show_icons=true&include_all_commits=true&count_private=true&custom_title=Github%20Stats" height="100"/>
+  <img alt="Github Stats" align="right" src="https://github-readme-stats.vercel.app/api/?username=keatmin&layout=compact&theme=nightowl&show_icons=true&include_all_commits=true&count_private=true&custom_title=Github%20Stats" height="200"/>
 </a>
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/keatmin)
