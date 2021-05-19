@@ -12,8 +12,9 @@ Thank you for looking at my profile.
 - 💬 Ask me anything about data!
 - ⚡ Fun fact: **I am an ultimate frisbee nerd!** :cookie:
 
+
 <a href="https://github.com/keatmin">
-  <img align="right" height="148" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keatmin&layout=compact&theme=nightowl&hide=jupyter%20notebook&hide_title=true"/>
+  <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keatmin&layout=compact&theme=nightowl&hide=jupyter%20notebook&hide_title=true"/>
 </a>
 
 <!--
