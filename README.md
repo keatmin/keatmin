@@ -2,7 +2,7 @@
 
 
 <a href="https://github.com/keatmin">
-  <img alt="Github Stats" align="right" src="https://github-readme-stats.vercel.app/api/?username=keatmin&layout=compact&theme=nightowl&show_icons=true&include_all_commits=true&count_private=true&custom_title=Github%20Stats" height="150"/>
+  <img alt="Github Stats" align="right" src="https://github-readme-stats.vercel.app/api/?username=keatmin&layout=compact&theme=nightowl&show_icons=true&include_all_commits=true&count_private=true&custom_title=Github%20Stats" height="140"/>
 </a>
 
 Thank you for looking at my profile. 
