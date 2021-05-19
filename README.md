@@ -2,13 +2,18 @@
 
 
 <a href="https://github.com/keatmin">
-  <img alt="Github Stats" align="right" src="https://github-readme-stats.vercel.app/api/?username=keatmin&layout=compact&theme=nightowl&show_icons=true&include_all_commits=true&count_private=true&custom_title=Github%20Stats" height="200"/>
+  <img alt="Github Stats" align="right" src="https://github-readme-stats.vercel.app/api/?username=keatmin&layout=compact&theme=nightowl&show_icons=true&include_all_commits=true&count_private=true&custom_title=Github%20Stats" height="150"/>
 </a>
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/keatmin)
+Thank you for looking at my profile. 
+
+- 🌱 I’m currently learning on becoming the best hybrid of DE/MLE
+- 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/keatmin)
+- 💬 Ask me anything about data!
+- ⚡ Fun fact: **I am an ultimate frisbee nerd!** :cookie:
 
 <a href="https://github.com/keatmin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keatmin&layout=compact&theme=nightowl&hide=jupyter%20notebook" />
+  <img align="right" height="148" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keatmin&layout=compact&theme=nightowl&hide=jupyter%20notebook&hide_title=true"/>
 </a>
 
 <!--
@@ -16,10 +21,10 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
