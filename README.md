@@ -1,10 +1,12 @@
-### Hi there 👋
+### Hello there 👋
+- 📫 How to reach me: ![LinkedIn](https://www.linkedin.com/in/keatmin)
+
 
 <a href="https://github.com/keatmin">
-  <img alt="Github Stats" align="left" src="https://github-readme-stats.vercel.app/api/?username=keatmin&layout=compact&theme=nightowl&show_icons=true&include_all_commits=true&count_private=true&custom_title=Github%20Stats"/>
+  <img alt="Github Stats" align="right" src="https://github-readme-stats.vercel.app/api/?username=keatmin&layout=compact&theme=nightowl&show_icons=true&include_all_commits=true&count_private=true&custom_title=Github%20Stats"/>
 </a>
 <a href="https://github.com/keatmin">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keatmin&layout=compact&theme=nightowl&hide=jupyter%20notebook" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keatmin&layout=compact&theme=nightowl&hide=jupyter%20notebook" />
 </a>
 
 <!--
@@ -12,12 +14,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
