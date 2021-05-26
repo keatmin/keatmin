@@ -7,7 +7,7 @@
 
 Thank you for looking at my profile. 
 
-- 🌱 I’m currently learning on becoming the best hybrid of DE/MLE
+- 🌱 I’m currently learning to become the best DE/MLE hybrid
 - 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/keatmin)
 - 💬 Ask me anything about data!
 - ⚡ Fun fact: **I am an ultimate frisbee nerd!** :cookie:
