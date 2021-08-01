@@ -10,7 +10,7 @@ Thank you for looking at my profile.
 
 
 <a href="https://github.com/keatmin">
-  <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keatmin&layout=compact&theme=nightowl&hide=jupyter%20notebook&hide_title=true"/>
+  <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keatmin&layout=compact&theme=nightowl&hide=jupyter%20notebook&hide_title=true"/>
 </a>
 
 <!--
