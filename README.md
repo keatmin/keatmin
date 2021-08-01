@@ -1,10 +1,6 @@
 ### Hello there 👋
 
 
-<a href="https://github.com/keatmin">
-  <img alt="Github Stats" align="right" src="https://github-readme-stats.vercel.app/api/?username=keatmin&layout=compact&theme=nightowl&show_icons=true&include_all_commits=true&count_private=true&custom_title=Github%20Stats" height="140"/>
-</a>
-
 Thank you for looking at my profile. 
 
 - 🌱 I’m currently learning to become the best DE/MLE hybrid
@@ -27,5 +23,10 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 
 - 😄 Pronouns: ...
+
+
+<a href="https://github.com/keatmin">
+  <img alt="Github Stats" align="right" src="https://github-readme-stats.vercel.app/api/?username=keatmin&layout=compact&theme=nightowl&show_icons=true&include_all_commits=true&count_private=true&custom_title=Github%20Stats" height="140"/>
+</a>
 
 -->
