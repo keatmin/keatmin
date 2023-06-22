@@ -12,10 +12,10 @@ Thank you for looking at my profile.
 # Github Stats 📈📊
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keatmin&size_weight=0.5&count_weight=0.5&layout=compact&theme=nightowl&hide=jupyter%20notebook&hide_border=true&card_width=400&custom_title=Mostly%20Using"/>
+  <img width=48% src="https://github-readme-stats.vercel.app/api/top-langs/?username=keatmin&size_weight=0.5&count_weight=0.5&layout=compact&theme=nightowl&hide=jupyter%20notebook&hide_border=true&card_width=400&custom_title=Mostly%20Using"/>
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=keatmin&show_icons=true&theme=nightowl&hide_border=true" />
 -->
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=keatmin&theme=nightowl&hide_border=true&hide_title=true" />
+  <img width=48% src="http://github-readme-streak-stats.herokuapp.com?user=keatmin&theme=nightowl&hide_border=true&hide_title=true" />
 </div>
 
 
